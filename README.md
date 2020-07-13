@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at https://ocupop.com/
+- 📫 How to reach me: https://sethhallcreative.com/
+- ⚡ Fun fact: I also produce narrative film https://hallpictures.us/
+
 <!--
 **sethburtonhall/sethburtonhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
