@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at https://ocupop.com/
+- 🔭 I’m currently working as a Front End Engineer at https://ocupop.com/
 - 📫 How to reach me: https://sethhallcreative.com/
 - ⚡ Fun fact: I also produce narrative film https://hallpictures.us/
 
