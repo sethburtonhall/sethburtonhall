@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m am a Frontend/Full Stack Web Developer
-- I favor React, NextJS, Jamstack, and serverless
-- I am currently available for work
+- ⚙️ I favor React, NextJS, Jamstack, and serverless
+- 😀 I am currently available for work
 - 📫 How to reach me: https://sethhallcreative.com/
 
 - ⚡ Fun fact: On occasion I produce narrative film https://hallpictures.us/
