@@ -5,7 +5,7 @@
 - 😀 I am currently available for work
 - 📫 You can reach me at https://sethhallcreative.com/ or https://twitter.com/sethburtonhall
 
-- ⚡ Fun fact: On occasion I produce narrative film https://hallpictures.us/
+- ⚡ Fun fact: On occasion I produce [narrative film](https://hallpictures.us/)
 
 <!--
 **sethburtonhall/sethburtonhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
