@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m am a Frontend/Full Stack Web Developer currently available for work.
+- 🔭 I’m am a Frontend/Full Stack Web Developer
+- I favor React, NextJS, Jamstack, and serverless
+- I am currently available for work
 - 📫 How to reach me: https://sethhallcreative.com/
-- ⚡ Fun fact: I also produce narrative film https://hallpictures.us/
+
+- ⚡ Fun fact: On occasion I produce narrative film https://hallpictures.us/
 
 <!--
 **sethburtonhall/sethburtonhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
