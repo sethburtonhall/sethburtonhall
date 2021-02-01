@@ -3,7 +3,7 @@
 - 🔭 I’m am a Frontend/Full Stack Web Developer
 - ⚙️ I favor React, NextJS, Jamstack, and serverless
 - 😀 I am currently available for work
-- 📫 You can reach me at https://sethhallcreative.com/ or https://twitter.com/sethburtonhall
+- 📫 You can reach me [here](https://sethhallcreative.com/)
 
 - ⚡ Fun fact: On occasion I produce [narrative film](https://hallpictures.us/)
 
