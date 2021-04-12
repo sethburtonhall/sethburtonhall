@@ -2,7 +2,7 @@
 
 - 🔭 I’m am a Frontend/Full Stack Web Developer.
 - ⚙️ I favor React, NextJS, Jamstack, and serverless.
-- 😀 I currently work at FilmHub.
+- 😀 I currently work at [FilmHub](https://filmhub.com/).
 - 📫 You can reach me [here](https://sethhallcreative.com/).
 
 - ⚡ Fun fact: On occasion I produce narrative film.
