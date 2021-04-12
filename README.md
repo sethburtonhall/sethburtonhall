@@ -2,10 +2,10 @@
 
 - 🔭 I’m am a Frontend/Full Stack Web Developer.
 - ⚙️ I favor React, NextJS, Jamstack, and serverless.
-- 😀 I am currently available for work.
+- 😀 I currently work at FilmHub.
 - 📫 You can reach me [here](https://sethhallcreative.com/).
 
-- ⚡ Fun fact: On occasion I produce [narrative film](https://hallpictures.us/).
+- ⚡ Fun fact: On occasion I produce narrative film.
 
 <!--
 **sethburtonhall/sethburtonhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
