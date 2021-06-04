@@ -1,8 +1,8 @@
-### Hello 👋 😀 my name is Seth and today is Friday, June 4, 4:58 PM EDT.
+### Hello 👋 😀 my name is Seth and today is Friday, June 4, 5:02 PM EDT.
 
-- 🔭 I am a frontend web developer with full stack experience.
-- 😀 I am currently available for work.
-- 📫 You can read more about me [here](https://sethhallcreative.com/).
+- I am a frontend web developer with full stack experience.
+- I am currently available for work.
+- You can read more about me [here](https://sethhallcreative.com/).
 <br>
 
 ### Technical Skills 💻
@@ -92,4 +92,4 @@ I live and work remotely in the great state of [North Carolina](https://www.wiki
 
 Today's weather is <b>74°C</b> with <b><i>clear sky</i></b> and the ☀️ rises at <b>06:08 AM</b> and sets at <b>08:40 PM</b>.</p>
 
-A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
+A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)!
