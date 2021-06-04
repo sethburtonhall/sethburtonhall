@@ -1,5 +1,4 @@
-### Hello 👋 😀 my name is Seth and today is Friday, June 4, 4:02 PM EDT.
-<br>
+### Hello 👋 😀 my name is Seth and today is Friday, June 4, 4:45 PM EDT.
 
 - 🔭 I am a frontend web developer with full stack experience.
 - 📫 You can read more about me [here](https://sethhallcreative.com/).
@@ -93,6 +92,6 @@
 
 <p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196011907_386995949306616_5416461431312419934_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3D8subHF6oR54AX9aGN2o%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Db6b8ecbb1be1597fec593dee0f89a233%26oe%3D60C20A97%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc110.0.859.859a%7C%7Cs640x640%7C%7C195177318_378365880280625_4750197397694495352_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3DFFQeUFT5y7IAX94NPQz%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da641a0925e5838e69d73f2166e6b8a91%26oe%3D60C077D2%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc180.0.719.719a%7C%7Cs640x640%7C%7C195221402_2015351915288576_7471638823519354804_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3D7VuL8VK8LekAX-y1aMs%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D4f296a7577184c60e82054010f2b8345%26oe%3D60C0DCA1%26_nc_sid%3D7bff83" /></p>
 
-Today's weather is <b>24°C</b> with <b><i>scattered clouds</i></b> and the ☀️ rises at <b>06:08 AM</b> and sets at <b>08:40 PM</b>.</p>
+Today's weather is <b>24°C</b> with <b><i>clear sky</i></b> and the ☀️ rises at <b>06:08 AM</b> and sets at <b>08:40 PM</b>.</p>
 
 A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
