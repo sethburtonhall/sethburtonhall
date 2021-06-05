@@ -1,4 +1,4 @@
-### Hello 👋 😀 my name is Seth and today is Saturday, June 5, 6:14 PM EDT.
+### Hello 👋 😀 my name is Seth and today is Saturday, June 5, 6:15 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -88,4 +88,5 @@ Today's weather is ***75°C*** with ***overcast clouds*** and the ☀️ rises a
 </a>
 <br>
 <br>
+
 A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)!
