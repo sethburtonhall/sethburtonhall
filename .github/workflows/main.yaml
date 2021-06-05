@@ -19,6 +19,7 @@ jobs:
         with:
           node-version: '13.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
+        if: github.event_name == 'push' || github.event_name == 'pull_request'
         uses: actions/cache@v1
         with:
           path: node_modules

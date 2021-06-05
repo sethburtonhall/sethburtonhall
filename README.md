@@ -1,4 +1,4 @@
-### Hello 👋 😀 my name is Seth and today is Friday, June 4, 5:02 PM EDT.
+### Hello 👋 😀 my name is Seth and today is Saturday, June 5, 6:00 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -7,89 +7,89 @@
 
 ### Technical Skills 💻
 
-<p>
-  Front End:
-  <br>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+Front End:
+<br>
 
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1c4fd8?style=flat-square&logo=css3&logoColor=white" />
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1c4fd8?style=flat-square&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-fbbf24?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next-dot-js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-16b981?style=flat-square&logo=vue-dot-js&logoColor=white)
+![Testing](https://img.shields.io/badge/-Testing-FB0043?style=flat-square)
+![Performance](https://img.shields.io/badge/-Performance-1B6277?style=flat-square)
+![Accessibility](https://img.shields.io/badge/-Accessibility-23977B?style=flat-square)
 
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-fbbf24?style=flat-square&logo=javascript&logoColor=white" />
+Styling:
+<br>
 
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0c91b1?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7951b3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra_UI-66c9cc?style=flat-square&logo=chakra-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 
-  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
+Serverless/Database:
+<br>
 
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-16b981?style=flat-square&logo=vue-dot-js&logoColor=white" />
+![Jamstack](https://img.shields.io/badge/-Jamstack-db2877?style=flat-square&logo=jamstack&logoColor=white)
+![CMS](https://img.shields.io/badge/-CMS-AE58CD?style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-f59e0b?style=flat-square&logo=firebase&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/-AWS_Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-ea580e?style=flat-square&logo=severless&logoColor=white)
+![APIs](https://img.shields.io/badge/-APIs-5046e4?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-  <img alt="Testing" src="https://img.shields.io/badge/-Testing-FB0043?style=flat-square" />
+Team Collaboration:
+<br>
 
-  <img alt="Performance" src="https://img.shields.io/badge/-Performance-1B6277?style=flat-square" />
-
-  <img alt="Accessibility" src="https://img.shields.io/badge/-Accessibility-23977B?style=flat-square" />
-</p>
-
-<p>
-  Styling:
-  <br>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0c91b1?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7951b3?style=flat-square&logo=bootstrap&logoColor=white" />
-
-  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-66c9cc?style=flat-square&logo=chakra-ui&logoColor=white" />
-
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-<p/>
-
-<p>
-  Serverless/Database:
-  <br>
-  <img alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-db2877?style=flat-square&logo=jamstack&logoColor=white" />
-
-  <img alt="CMS" src="https://img.shields.io/badge/-CMS-AE58CD?style=flat-square" />
-
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-f59e0b?style=flat-square&logo=firebase&logoColor=white" />
-
-  <img alt="AWS Amplify" src="https://img.shields.io/badge/-AWS Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white" />
-
-  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-ea580e?style=flat-square&logo=severless&logoColor=white" />
-
-  <img alt="APIs" src="https://img.shields.io/badge/-APIs-5046e4?style=flat-square" />
-
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat-square" />
-
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-</p>
-
-<p>
-  Team Collaboration:
-  <br>
-  <img alt="Agile" src="https://img.shields.io/badge/-Agile-0C6DA9?style=flat-square" />
-
-  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0252cc?style=flat-square&logo=jira&logoColor=white" />
-
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
-</p>
+![Agile](https://img.shields.io/badge/-Agile-0C6DA9?style=flat-square)
+![Jira](https://img.shields.io/badge/-Jira-0252cc?style=flat-square&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 <br>
 
 I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻
 
-<p><img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196011907_386995949306616_5416461431312419934_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3D8subHF6oR54AX9aGN2o%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Db6b8ecbb1be1597fec593dee0f89a233%26oe%3D60C20A97%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc110.0.859.859a%7C%7Cs640x640%7C%7C195177318_378365880280625_4750197397694495352_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3DFFQeUFT5y7IAX94NPQz%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Da641a0925e5838e69d73f2166e6b8a91%26oe%3D60C077D2%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.fiev22-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc180.0.719.719a%7C%7Cs640x640%7C%7C195221402_2015351915288576_7471638823519354804_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.fiev22-1.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3D7VuL8VK8LekAX-y1aMs%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D4f296a7577184c60e82054010f2b8345%26oe%3D60C0DCA1%26_nc_sid%3D7bff83" /></p>
+<!--Instagram Images-->
+<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196505427_489831365578286_5456207650138918413_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D6QbSaNQGnYwAX9W8M98%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D2616c674037bc1e955e0614f5d7ced9c%26oe%3D60C2A39D%26_nc_sid%3D7bff83" />
+<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196011907_386995949306616_5416461431312419934_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3D8subHF6oR54AX8wenRQ%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D2ce3928fae66b191bf4728d6af66c80f%26oe%3D60C20A97%26_nc_sid%3D7bff83" />
+<img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc110.0.859.859a%7C%7Cs640x640%7C%7C195177318_378365880280625_4750197397694495352_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3DFFQeUFT5y7IAX-UMJzR%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D2f89d74bf341727d1912cab24d2db197%26oe%3D60C27212%26_nc_sid%3D7bff83" />
 
-Today's weather is <b>74°C</b> with <b><i>clear sky</i></b> and the ☀️ rises at <b>06:08 AM</b> and sets at <b>08:40 PM</b>.</p>
+<!--Open Weather-->
+Today's weather is ***75°C*** with ***overcast clouds*** and the ☀️ rises at ***06:08 AM*** and sets at ***08:40 PM***.
+
+### My favorite music to code to 🎧
+
+<a href="https://open.spotify.com/album/1Km58i317Pm5bQR3wPHKcO">
+  <img src="https://i.scdn.co/image/ab67616d00001e02a7ec5d3e166901845bd74fb1" alt="Brian Eno Apollo Atmospheres and Soundtracks" width="200px">
+</a>
+
+<a href="https://open.spotify.com/playlist/2rN3mSrzUcgjlj1TcEDTX7">
+  <img src="https://i.scdn.co/image/ab67706c0000bebbcb7db8bdf70f8e8f57fd6d7f" alt="Chill Beats Playlist" width="200px">
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX3PFzdbtx1Us">
+  <img src="https://i.scdn.co/image/ab67706f000000033466e2ac76e504f4131af598" alt="Music for Concentration Playlist" width="200px">
+</a>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM?si=c216195d37504cca">
+  <img src="https://i.scdn.co/image/ab67706f00000003d868372b47b5f0514f0c40b6" alt="RetroWave/Outrun" width="200px">
+</a>
+
+<a href="https://open.spotify.com/playlist/5tYP3nadT118D1xWxpH87i?si=f4dbe936f8cd4828">
+  <img src="https://mosaic.scdn.co/640/ab67616d0000b2731a05b72d0e1fc7a4e30d047dab67616d0000b273269c1f2d02d992ac68caba94ab67616d0000b2738e59495684817f8385a1d1b5ab67616d0000b273b4168399c175b4699e879fa0" alt="Mellow Jazz" width="200px">
+</a>
+
+<a href="https://open.spotify.com/playlist/60ULD4NjSbr6zWQ2EuGhZj?si=286f7fc4cb414847">
+  <img src="https://i.scdn.co/image/ab67706c0000bebb7bf12ddf3d7f1dd291d21e53" alt="The Ultimate Trojan Dub Box Set" width="200px">
+</a>
+
 
 A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)!
