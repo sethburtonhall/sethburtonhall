@@ -1,9 +1,9 @@
-### Hello 👋 😀 my name is Seth and today is Saturday, June 5, 6:09 PM EDT.
+### Hello 👋 😀 my name is Seth and today is Saturday, June 5, 6:11 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
 - You can read more about me [here](https://sethhallcreative.com/).
-<br>
+
 ### Technical Skills 💻
 
 Front End:
