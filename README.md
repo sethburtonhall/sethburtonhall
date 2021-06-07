@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Monday, June 7, 10:57 AM EDT.
+## Hello 👋 😀 my name is Seth and today is Monday, June 7, 3:08 PM UTC.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -56,7 +56,7 @@ Team Collaboration:
 
 I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻
 
-Today's weather is ***68°C*** with ***overcast clouds*** and the ☀️ rises at ***06:08 AM*** and sets at ***08:41 PM***.
+Today's weather is ***68°C*** with ***overcast clouds*** and the ☀️ rises at ***10:08 AM*** and sets at ***12:41 AM***.
 
 <!--Instagram Images-->
 <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196505427_489831365578286_5456207650138918413_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D102%26_nc_ohc%3D6QbSaNQGnYwAX9IColq%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D90595172c452d1808f07c4fbf6fc75d8%26oe%3D60C49DDD%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cs640x640%7C%7C196011907_386995949306616_5416461431312419934_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D100%26_nc_ohc%3D8subHF6oR54AX-ErGIb%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D8fa8e7549a22cda68ea07df1931f8e03%26oe%3D60C404D7%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-1.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc110.0.859.859a%7C%7Cs640x640%7C%7C195177318_378365880280625_4750197397694495352_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-1.fna.fbcdn.net%26_nc_cat%3D105%26_nc_ohc%3DITvDxuoTeZQAX_DoyxI%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3Dba844f263986dcab989c347f92a44ac5%26oe%3D60C46C52%26_nc_sid%3D7bff83" /> <img width="200" src="https:&#x2F;&#x2F;www.picuki.com&#x2F;hosted-by-instagram&#x2F;url&#x3D;https%3A%7C%7C%7C%7Cinstagram.flwo4-2.fna.fbcdn.net%7C%7Cv%7C%7Ct51.2885-15%7C%7Csh0.08%7C%7Ce35%7C%7Cc180.0.719.719a%7C%7Cs640x640%7C%7C195221402_2015351915288576_7471638823519354804_n.jpg%3Ftp%3D1%26_nc_ht%3Dinstagram.flwo4-2.fna.fbcdn.net%26_nc_cat%3D108%26_nc_ohc%3DbmHoCDNzgA4AX_H1sVN%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D96433e76a12a22c518cbf63f060cd857%26oe%3D60C4D121%26_nc_sid%3D7bff83" />
