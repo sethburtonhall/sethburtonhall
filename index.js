@@ -20,6 +20,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
+    timeZone: 'America/New_York',
   }),
 };
 
