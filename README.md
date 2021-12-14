@@ -1,7 +1,7 @@
 ## Hello 👋 😀 my name is Seth and today is Tuesday, December 14, 7:36 AM EST.
 
 - I am a frontend web developer.
-- I am currently available for work.
+- ~~I am currently available for work.
 - You can read more about me [here](https://sethhallcreative.com/).
 
 ### Technical Skills 💻
