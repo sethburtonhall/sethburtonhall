@@ -12,6 +12,7 @@ Front End:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1c4fd8?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-fbbf24?style=flat-square&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-2b6dbf?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next-dot-js&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-16b981?style=flat-square&logo=vue-dot-js&logoColor=white)
