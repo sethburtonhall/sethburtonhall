@@ -1,6 +1,6 @@
 ## Hello 👋 😀 my name is Seth and today is Monday, January 17, 8:20 PM EST.
 
-- I am a frontend web developer with full stack experience.
+- I am a frontend web developer building in the React, Vue, Jamstack/Serverless ecosystems.
 - I am currently available for work.
 - You can read more about me [here](https://sethhallcreative.com/).
 
