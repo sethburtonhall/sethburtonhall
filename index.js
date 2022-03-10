@@ -41,8 +41,8 @@ async function setWeatherInfo() {
       //   hour: '2-digit',
       //   minute: '2-digit',
       // });
-      DATA.sun_rise = new Date(r.sys.sunrise).toLocaleTimeString();
-      DATA.sun_set = new Date(r.sys.sunset).toLocaleTimeString();
+      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleTimeString();
+      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleTimeString();
     });
 }
 
