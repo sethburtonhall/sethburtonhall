@@ -33,13 +33,13 @@ async function setWeatherInfo() {
       DATA.city_temperature = Math.round(r.main.temp);
       DATA.city_weather = r.weather[0].description;
       DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise).toLocaleString('en-US', {
+      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
         hour: 'numeric',
         minute: 'numeric',
         timeZoneName: 'short',
         timeZone: 'America/New_York',
       });
-      DATA.sun_set = new Date(r.sys.sunset).toLocaleString('en-US', {
+      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
         hour: 'numeric',
         minute: 'numeric',
         timeZoneName: 'short',
