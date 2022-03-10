@@ -41,8 +41,18 @@ async function setWeatherInfo() {
       //   hour: '2-digit',
       //   minute: '2-digit',
       // });
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleTimeString();
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleTimeString();
+      DATA.sun_rise = new Date(r.sys.sunrise).toLocaleDateString('en-US', {
+        hour: 'numeric',
+        minute: 'numeric',
+        timeZoneName: 'short',
+        timeZone: 'America/New_York',
+      });
+      DATA.sun_set = new Date(r.sys.sunset).toLocaleDateString('en-US', {
+        hour: 'numeric',
+        minute: 'numeric',
+        timeZoneName: 'short',
+        timeZone: 'America/New_York',
+      });
     });
 }
 
