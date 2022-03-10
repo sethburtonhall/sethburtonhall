@@ -2,7 +2,7 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const puppeteerService = require('./services/puppeteer.service')
+const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -33,11 +33,15 @@ async function setWeatherInfo() {
       DATA.city_temperature = Math.round(r.main.temp);
       DATA.city_weather = r.weather[0].description;
       DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
+      DATA.sun_rise = new Date(
+        (data.sys.sunrise + data.timezone) * 1000
+      ).toLocaleString('en-US', {
         hour: '2-digit',
         minute: '2-digit',
       });
-      DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
+      DATA.sun_set = new Date(
+        (data.sys.sunrise + data.timezone) * 1000
+      ).toLocaleString('en-US', {
         hour: '2-digit',
         minute: '2-digit',
       });
@@ -74,4 +78,3 @@ async function action() {
 }
 
 action();
-
