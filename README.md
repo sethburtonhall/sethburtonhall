@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Friday, August 19, 8:08 AM EDT.
+## Hello 👋 😀 my name is Seth and today is Friday, August 19, 2:06 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -56,10 +56,10 @@ Team Collaboration:
 
 I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻
 
-Today's weather is ***62°C*** with ***fog*** and the ☀️ rises at ***6:47 AM EDT*** and sets at ***8:12 PM EDT***.
+Today's weather is ***72°C*** with ***broken clouds*** and the ☀️ rises at ***6:47 AM EDT*** and sets at ***8:12 PM EDT***.
 
 <!--Instagram Images-->
-<img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" />
+<img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LfjZp7IkjWF1UZFN7PUzaSLeATTdd5quRUunN0DZm85NklL4xJHEXbHGp9cEsUwmYdSgIGaYDG7uo%7C%7CesJ+fzncjcBojOMNbBGmDdttdCwFahlza4lsfe4kx2xu5xncG114WNxahlw5OLUqQUCSKn5PN1gpKZlR7pCjMsS5Lujymu+H2xkfWx9Ez7RtI7V2dENhhzrdSFlqjD3AZY1LHMRiVbmsi4o4I4CrYuELtlM4adumKPlRSACW2E2hjtfwZftgAHsSUGImUBRwT2Ej+b3ffZ79sXPBMfFU8jezgPQZKL3BOtad2MjJPrmX3fTMeCkV51evIoeBvFkhGq%7C%7C5jy3Zejt21V+AWgc0GTeX8QjEruiyqyb4X7U32WIpFZpkg&#x3D;&#x3D;.jpeg?1" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNecaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LfjZp5o0sUFpYZFN4OELYSr2OSjZS76SfUYCk2zdj9ZVllbgzK3MXY3Gm8McuOzjYMTIfQeoEH%7C%7Cb2rvUW8PvwbTIBpi2TMLBCyQlWotfpUrJy9ZRzt52U1h+189JldAJZ+jtvdBFundPZlTIeAf3+Idp1orN2S%7C%7CkKhtAKv6K%7C%7C1SO2ECMseW16GX6Rv5+HoOAAuiDpYGhpqzbheKc4EEMWggjuux5mgr8Bq9yPYKxVgNIPtJSPCmMDUjFKiCU%7C%7Ck8SqtQLsSUHv3EBQnjeel%7C%7CW+eqN29qrREb6rZ8HqnTDvQuT2N5ljbi4GNaSCZWeRefmDBf5Vkq5oDNlH72e39CPvXJTVmhx0WWMZ02KqLcZSBcKTx5C3+3ON2juK8VU5.jpeg?1" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNucaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LfjZo7Y8jWF1XZFV%7C%7COkPZQLeJSTpQ6ayYU4Cn2zVu%7C%7CZFklbg1L3UdZ36q9csrOzjYMTIfQeoEH%7C%7Cb2rvUV8PvwazQFuDSQNOUtzCVG%7C%7CMm0X51wm8Qf8fTT0FOzv9R3GzNJzWM1eUAmscnbrSgLUbr2Ptl78ewlCLECi4kD6ezqlWu2FHlsRGB9KDOertaQz71Fui3rSzow+Dzya5oMHElTi1butDcJ%7C%7C5UXuayBcohp1KMZnpGGTzYQfU1KhjUok5e%7C%7CynSAPSam1x4Ck1%7C%7Cy9oyTU64DvL7oEtybdsnkmBvSXbWMF+wcDHEjTeX+clqMBuOkBcMIr9xMD+5ZkVGwrVDuJOHWj0EoQgpEgAuYBZYtG%7C%7CuZlf2m.jpeg?1" /> <img width="200" src="https:&#x2F;&#x2F;cdn1.picuki.com&#x2F;hosted-by-instagram&#x2F;q&#x3D;0exhNuNYnjBGZDHIdN5WmL9I2Pk2GAlRNucaS7j0nyZiNxIsbHWB58ltwdGn%7C%7CDh6Kwh9HS+LfjZo4Y8pV1tWZFF7PEXcSLaMTj9W76SbUOnN1z1i95Jonb81KXAbYH6v%7C%7C8UqUQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt%7C%7C9k4Ki5e82wzJURmpNHNpW5HDrr2PM86o6N0QrlChMIRrdDgmBq7EHl3Kj4sUQ+RubTOl+1eyHDpRiMb3FC0FYAaFxQIomXr4lA0toFzqaqTZY49ztwZkIH2CmUEXTE86kEon5zgx3PySVTkyUld8UnJ8bqFRugftozBKqO1fI3cywz4TJDyQo5mU1spV6XFd1LZcdmcJo5Wk9YZT6gY9gqQ1kCCerPLzxp1WW1Mh2XZDg&#x3D;&#x3D;.jpeg?1" />
 <br>
 
 ### My favorite music to code to 🎧
