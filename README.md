@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Saturday, June 10, 2:06 AM EDT.
+## Hello 👋 😀 my name is Seth and today is Saturday, June 10, 8:07 AM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -56,7 +56,7 @@ Team Collaboration:
 
 I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻
 
-Today's weather is ***48°C*** with ***clear sky*** and the ☀️ rises at ***6:07 AM EDT*** and sets at ***8:43 PM EDT***.
+Today's weather is ***51°C*** with ***clear sky*** and the ☀️ rises at ***6:07 AM EDT*** and sets at ***8:43 PM EDT***.
 
 <!--Instagram Images-->
 <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" />
