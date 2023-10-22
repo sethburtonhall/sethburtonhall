@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 8:07 AM EDT.
+## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 12:28 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -56,7 +56,7 @@ Team Collaboration:
 
 <!--I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻-->
 
-<!--Today's weather is ***48°C*** with ***clear sky*** and the ☀️ rises at ***7:39 AM EDT*** and sets at ***6:41 PM EDT***.-->
+<!--Today's weather is ***54°C*** with ***overcast clouds*** and the ☀️ rises at ***7:39 AM EDT*** and sets at ***6:41 PM EDT***.-->
 
 <!--Instagram Images-->
 <!--<img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" />-->
@@ -91,5 +91,3 @@ Team Collaboration:
 <br>
 
 A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)!
-
-<a href="https://app.daily.dev/mrhall"><img src="https://api.daily.dev/devcards/d0e598aed9cb47b1a3df559c65bb6cc9.png?r=y3h" width="400" alt="Seth Hall's Dev Card"/></a>
