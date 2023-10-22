@@ -69,10 +69,6 @@ Team Collaboration:
   <img src="https://i.scdn.co/image/ab67616d00001e02a7ec5d3e166901845bd74fb1" alt="Brian Eno Apollo Atmospheres and Soundtracks" width="200px">
 </a>
 
-<a href="https://open.spotify.com/playlist/2rN3mSrzUcgjlj1TcEDTX7">
-  <img src="https://i.scdn.co/image/ab67706c0000bebbcb7db8bdf70f8e8f57fd6d7f" alt="Chill Beats Playlist" width="200px">
-</a>
-
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX3PFzdbtx1Us">
   <img src="https://i.scdn.co/image/ab67706f000000033466e2ac76e504f4131af598" alt="Music for Concentration Playlist" width="200px">
 </a>
