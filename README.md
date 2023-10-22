@@ -1,9 +1,8 @@
-## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 12:28 PM EDT.
+## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 12:38 PM EDT.
 
-- I am a Senior Frontend Web Developer working in Composable, Creative Producer living in sabbatical, Digital Nomad, and Journeyman.
+- I am a frontend web developer with full stack experience.
+- I am currently available for work.
 - You can read more about me [here](https://sethhallcreative.com/).
-
-<a href="https://app.daily.dev/mrhall"><img src="https://api.daily.dev/devcards/d0e598aed9cb47b1a3df559c65bb6cc9.png?r=y3h" width="400" alt="Seth Hall's Dev Card"/></a>
 
 ### Technical Skills 💻
 
@@ -13,9 +12,9 @@ Front End:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1c4fd8?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-fbbf24?style=flat-square&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-4377c1?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=next-dot-js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-16b981?style=flat-square&logo=vue-dot-js&logoColor=white)
 ![Testing](https://img.shields.io/badge/-Testing-FB0043?style=flat-square)
 ![Performance](https://img.shields.io/badge/-Performance-1B6277?style=flat-square)
 ![Accessibility](https://img.shields.io/badge/-Accessibility-23977B?style=flat-square)
