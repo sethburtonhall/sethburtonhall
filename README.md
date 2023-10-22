@@ -1,10 +1,8 @@
-## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 12:28 PM EDT.
+## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 12:31 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
 - You can read more about me [here](https://sethhallcreative.com/).
-
-<a href="https://app.daily.dev/mrhall"><img src="https://api.daily.dev/devcards/d0e598aed9cb47b1a3df559c65bb6cc9.png?r=y3h" width="400" alt="Seth Hall's Dev Card"/></a>
 
 ### Technical Skills 💻
 
