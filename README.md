@@ -91,3 +91,5 @@ Team Collaboration:
 <br>
 
 A big thanks to [@thmsgbrt](https://github.com/thmsgbrt) for [this great post](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)!
+
+<a href="https://app.daily.dev/mrhall"><img src="https://api.daily.dev/devcards/d0e598aed9cb47b1a3df559c65bb6cc9.png?r=y3h" width="400" alt="Seth Hall's Dev Card"/></a>
