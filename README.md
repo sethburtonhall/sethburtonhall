@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 12:38 PM EDT.
+## Hello 👋 😀 my name is Seth and today is Sunday, October 22, 2:06 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -56,7 +56,7 @@ Team Collaboration:
 
 <!--I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻-->
 
-<!--Today's weather is ***54°C*** with ***overcast clouds*** and the ☀️ rises at ***7:39 AM EDT*** and sets at ***6:41 PM EDT***.-->
+<!--Today's weather is ***54°C*** with ***clear sky*** and the ☀️ rises at ***7:39 AM EDT*** and sets at ***6:41 PM EDT***.-->
 
 <!--Instagram Images-->
 <!--<img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" />-->
@@ -66,6 +66,10 @@ Team Collaboration:
 
 <a href="https://open.spotify.com/album/1Km58i317Pm5bQR3wPHKcO">
   <img src="https://i.scdn.co/image/ab67616d00001e02a7ec5d3e166901845bd74fb1" alt="Brian Eno Apollo Atmospheres and Soundtracks" width="200px">
+</a>
+
+<a href="https://open.spotify.com/playlist/2rN3mSrzUcgjlj1TcEDTX7">
+  <img src="https://i.scdn.co/image/ab67706c0000bebbcb7db8bdf70f8e8f57fd6d7f" alt="Chill Beats Playlist" width="200px">
 </a>
 
 <a href="https://open.spotify.com/playlist/37i9dQZF1DX3PFzdbtx1Us">
