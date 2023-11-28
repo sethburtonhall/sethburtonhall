@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Monday, November 27, 1:06 PM EST.
+## Hello 👋 😀 my name is Seth and today is Monday, November 27, 7:23 PM EST.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
@@ -56,7 +56,7 @@ Team Collaboration:
 
 <!--I live and work remotely in the great state of [North Carolina](https://www.wikiwand.com/en/North_Carolina). 😎 💻-->
 
-<!--Today's weather is ***36°C*** with ***clear sky*** and the ☀️ rises at ***7:15 AM EST*** and sets at ***5:12 PM EST***.-->
+<!--Today's weather is ***28°C*** with ***clear sky*** and the ☀️ rises at ***7:15 AM EST*** and sets at ***5:12 PM EST***.-->
 
 <!--Instagram Images-->
 <!--<img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" />-->
