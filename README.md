@@ -1,4 +1,4 @@
-## Hello 👋 😀 my name is Seth and today is Tuesday, March 26, 8:09 AM EDT.
+## Hello 👋 😀 my name is Seth and today is Tuesday, March 26, 2:07 PM EDT.
 
 - I am a frontend web developer with full stack experience.
 - I am currently available for work.
